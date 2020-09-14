@@ -6,19 +6,26 @@ MedizinPlus provides products under 6 major categories such as Health and Medici
 Baby Care, Home and Health, Beauty and Cosmetics, Vitamins and Personal Care. 
 
 Database username : root
+
 Database password : root 
+
 Database Name : MedizinPlusDB
+
 Tables:
+    
     1. products
+    
     2. orders
+    
     3. users
 
-    Admin User:
+Admin User:
         Username : admin@admin.com
         Password : admin1234
-    Customer:
+
+Customer:
         Username : test@test.test
         Password : test1234
-
+        
         Username : hp@hogwarts.com
         Password : harry1234
