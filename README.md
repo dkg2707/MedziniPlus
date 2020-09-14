@@ -5,6 +5,8 @@ MedizinPlus - Online Pharmacy Service
 MedizinPlus provides products under 6 major categories such as Health and Medicine, 
 Baby Care, Home and Health, Beauty and Cosmetics, Vitamins and Personal Care. 
 
+Technologies used: PHP, MySQL
+
 Database Name : 
                    
     MedizinPlusDB
